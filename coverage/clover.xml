@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1715617867480" clover="3.2.0">
-  <project timestamp="1715617867480" name="All files">
+<coverage generated="1715618595982" clover="3.2.0">
+  <project timestamp="1715618595982" name="All files">
     <metrics statements="8" coveredstatements="8" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4" elements="14" coveredelements="14" complexity="0" loc="8" ncloc="8" packages="1" files="1" classes="1"/>
     <file name="calc.js" path="C:\Users\User\Documents\FP\Entornos de Desarrollo\TestJS\calc.js">
       <metrics statements="8" coveredstatements="8" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
